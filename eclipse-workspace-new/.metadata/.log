@@ -1,0 +1,921 @@
+!SESSION 2018-05-03 15:22:10.218 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-03 15:25:22.789
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sanja'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:26:48.329
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:26:48.381
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:26:52.298
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:26:52.303
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:26:54.919
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:26:54.933
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-03 15:27:02.563
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-03 15:34:35.645
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-03 15:35:19.551
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.jsdt.chromium.debug.js 4 0 2018-05-03 15:37:02.581
+!MESSAGE Unable to run Chrome / Chromium. Verify you have a configured Chrome / Chromium runtime environment and try again.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-03 15:37:27.915
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:38:44.410
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:38:44.414
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:38:44.425
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:38:52.758
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:38:52.765
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:38:52.772
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2018-05-03 15:39:04.069 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-03 15:39:21.546
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sanja'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:39:29.397
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-03 15:39:29.413
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2018-05-04 19:04:42.796 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data C:\Users\sanja\eclipse-workspace\eclipse-workspace-new -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-04 19:04:58.668
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sanja'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:05:05.206
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:05:05.252
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:06:17.589
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:06:17.592
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:06:17.660
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-04 19:06:38.673
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:07:33.242
+!MESSAGE Several ports (8005, 8080, 8009) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-04 19:08:01.248
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-04 19:08:26.201
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-04 19:11:05.141
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:55.996
+!MESSAGE Publishing the configuration...
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:55.996
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.policy: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:55.997
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.properties: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:55.998
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\context.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:55.998
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\server.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:55.998
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\tomcat-users.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:14:56.005
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\web.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.151
+!MESSAGE Publishing the configuration...
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.151
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.policy: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.151
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.properties: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.152
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\context.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.152
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\server.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.152
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\tomcat-users.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:03.153
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\web.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.149
+!MESSAGE Publishing the configuration...
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.149
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.policy: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.150
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.properties: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.150
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\context.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.150
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\server.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.150
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\tomcat-users.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:15:18.150
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\web.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2018-05-04 19:15:31.711 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-04 19:15:51.249
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sanja'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:15:59.522
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:15:59.581
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.764
+!MESSAGE Publishing the configuration...
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.764
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.policy: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.764
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.properties: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.765
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\context.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.765
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\server.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.765
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\tomcat-users.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:16:59.767
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\web.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-04 19:18:43.782
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:19:35.339
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:19:35.356
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:19:35.433
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-04 19:23:47.614
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-04 19:24:09.977
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:11.137
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:11.141
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:13.099
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:13.102
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:25.938
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:25.946
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:26:25.956
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-05-04 19:26:50.134
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:27:17.976
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:27:17.980
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:27:17.988
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2018-05-04 19:28:52.079 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-05-04 19:29:09.715
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sanja'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:29:19.131
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-05-04 19:29:19.166
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-04 19:34:37.778
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-05-04 19:34:51.594
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.456
+!MESSAGE Publishing the configuration...
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.456
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.policy: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.457
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.properties: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.457
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\context.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.458
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\server.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.458
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\tomcat-users.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:23.458
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\web.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jst.server.tomcat.ui 4 0 2018-05-04 19:36:31.905
+!MESSAGE An error occurred while cleaning Tomcat v9.0 Server at localhost work directory.
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:36:31.905
+!MESSAGE Problem occurred deleting work directory for module.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.905
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\docs. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.905
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\examples. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\host-manager. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\manager. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\ROOT\org\apache\jsp\index_jsp.class. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\ROOT\org\apache\jsp\index_jsp.java. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\spring-mvc-demo\org\apache\jsp\WEB_002dINF\view\helloworld_002dform_jsp.class. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\spring-mvc-demo\org\apache\jsp\WEB_002dINF\view\helloworld_002dform_jsp.java. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\spring-mvc-demo\org\apache\jsp\WEB_002dINF\view\helloworld_jsp.class. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\spring-mvc-demo\org\apache\jsp\WEB_002dINF\view\helloworld_jsp.java. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\spring-mvc-demo\org\apache\jsp\WEB_002dINF\view\main_002dmenu_jsp.class. May be locked by another process.
+!SUBENTRY 2 org.eclipse.wst.server.core 4 0 2018-05-04 19:36:31.906
+!MESSAGE Could not delete C:\Program Files\Apache Software Foundation\Tomcat 9.0\work\Catalina\localhost\spring-mvc-demo\org\apache\jsp\WEB_002dINF\view\main_002dmenu_jsp.java. May be locked by another process.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.655
+!MESSAGE Publishing the configuration...
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.655
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.policy: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.policy (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.656
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\catalina.properties: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\catalina.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.656
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\context.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\context.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.656
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\server.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\server.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.656
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\tomcat-users.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\tomcat-users.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2018-05-04 19:37:19.656
+!MESSAGE Error copying file to C:/Program Files/Apache Software Foundation/Tomcat 9.0/backup\web.xml: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\Apache Software Foundation\Tomcat 9.0\backup\web.xml (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:91)
+	at org.eclipse.jst.server.tomcat.core.internal.FileUtil.copyFile(FileUtil.java:127)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupFolder(TomcatConfiguration.java:125)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatConfiguration.backupAndPublish(TomcatConfiguration.java:95)
+	at org.eclipse.jst.server.tomcat.core.internal.TomcatServerBehaviour.publishServer(TomcatServerBehaviour.java:239)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:975)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
